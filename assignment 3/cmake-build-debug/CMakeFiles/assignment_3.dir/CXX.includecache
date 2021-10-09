@@ -1,0 +1,58 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Raiymbek Nurtay/CLionProjects/assignment 3/Account.cpp
+Account.h
+/cygdrive/c/Users/Raiymbek Nurtay/CLionProjects/assignment 3/Account.h
+
+/cygdrive/c/Users/Raiymbek Nurtay/CLionProjects/assignment 3/Account.h
+string
+/cygdrive/c/Users/Raiymbek Nurtay/CLionProjects/assignment 3/string
+iostream
+/cygdrive/c/Users/Raiymbek Nurtay/CLionProjects/assignment 3/iostream
+
+/cygdrive/c/Users/Raiymbek Nurtay/CLionProjects/assignment 3/Account1.cpp
+Account1.h
+/cygdrive/c/Users/Raiymbek Nurtay/CLionProjects/assignment 3/Account1.h
+
+/cygdrive/c/Users/Raiymbek Nurtay/CLionProjects/assignment 3/Account1.h
+Account.h
+/cygdrive/c/Users/Raiymbek Nurtay/CLionProjects/assignment 3/Account.h
+
+/cygdrive/c/Users/Raiymbek Nurtay/CLionProjects/assignment 3/CheckingAccount.cpp
+CheckingAccount.h
+/cygdrive/c/Users/Raiymbek Nurtay/CLionProjects/assignment 3/CheckingAccount.h
+
+/cygdrive/c/Users/Raiymbek Nurtay/CLionProjects/assignment 3/CheckingAccount.h
+Account.h
+/cygdrive/c/Users/Raiymbek Nurtay/CLionProjects/assignment 3/Account.h
+
+/cygdrive/c/Users/Raiymbek Nurtay/CLionProjects/assignment 3/SavingsAccount.cpp
+SavingsAccount.h
+/cygdrive/c/Users/Raiymbek Nurtay/CLionProjects/assignment 3/SavingsAccount.h
+
+/cygdrive/c/Users/Raiymbek Nurtay/CLionProjects/assignment 3/SavingsAccount.h
+Account.h
+/cygdrive/c/Users/Raiymbek Nurtay/CLionProjects/assignment 3/Account.h
+
+/cygdrive/c/Users/Raiymbek Nurtay/CLionProjects/assignment 3/TrustAccount.cpp
+TrustAccount.h
+/cygdrive/c/Users/Raiymbek Nurtay/CLionProjects/assignment 3/TrustAccount.h
+
+/cygdrive/c/Users/Raiymbek Nurtay/CLionProjects/assignment 3/TrustAccount.h
+Account.h
+/cygdrive/c/Users/Raiymbek Nurtay/CLionProjects/assignment 3/Account.h
+
+/cygdrive/c/Users/Raiymbek Nurtay/CLionProjects/assignment 3/main.cpp
+iostream
+-
+Account.h
+/cygdrive/c/Users/Raiymbek Nurtay/CLionProjects/assignment 3/Account.h
+SavingsAccount.h
+/cygdrive/c/Users/Raiymbek Nurtay/CLionProjects/assignment 3/SavingsAccount.h
+
